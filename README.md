@@ -1,9 +1,9 @@
 ## Bem vindo! 👋
 
 * 💻 **Desenvolvedora Full-Stack**
-<br>
+
 * 🎓 **Cursando Analise e Desenvolvimento de Sistemas**
-<br>
+
 * 👩🏻‍💻 **Estudando Desenvolvimento Web no Programadores do Amanha**
 
 <div>
