@@ -1,10 +1,10 @@
 ## Bem vindo! 👋
 
-* 💻 **Desenvolvedora Full-Stack
+* 💻 **Desenvolvedora Full-Stack**
 <br>
-* 🎓 **Cursando Analise e Desenvolvimento de Sistemas
+* 🎓 **Cursando Analise e Desenvolvimento de Sistemas**
 <br>
-* 👩🏻‍💻 **Estudando Desenvolvimento Web no Programadores do Amanha
+* 👩🏻‍💻 **Estudando Desenvolvimento Web no Programadores do Amanha**
 
 <div>
 <a href="https://instagram.com/bslarissa" target="_"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
