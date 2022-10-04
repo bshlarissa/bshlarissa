@@ -1,5 +1,9 @@
 ## Bem vindo! 👋
 
+💻 Desenvolvedora Full-Stack (Front-end 🤌🏽)
+🎓 Cursando Analise e Desenvolvimento de Sistemas
+👩🏻‍💻 Estudando Desenvolvimento Web no Programadores do Amanha
+
 <div>
 <a href="https://instagram.com/bslarissa" target="_"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:bslarissa1112@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -17,6 +21,17 @@
 #### Ferramentas:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+<div style="display: inline_block"><br>
+  
+   <img align="center" alt="Larissa-VSC" height="30" width="55" src="https://yt3.ggpht.com/_q52i8bUAEvcb7JR4e-eNTv23y2A_wg5sCz0NC0GrGtcw1CRMWJSOPVHUDh_bngD0q4gMvVeoA=s900-c-k-c0x00ffffff-no-rj">
+   <img align="center" alt="Suzana-JS" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Suzana-HTML" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
+   <img align="center" alt="Suzana-CSS" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
+   <img align="center" alt="Suzana-C++" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg">
+   <img align="center" alt="Suzana-JAVA" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+   <img align="center" alt="Suzana-Git" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img align="center" alt="Suzana-Figma" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+</div>
 <br>
 
 <div> 
