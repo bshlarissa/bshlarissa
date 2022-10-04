@@ -1,5 +1,5 @@
 ## Bem vindo! 👋
-- 🔭 I’m currently working on Miuda Mobilia
+
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT.
 <div>
 <a href="https://github.com/bshlarissa"></a>
