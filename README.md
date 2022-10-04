@@ -12,7 +12,8 @@
 <a href="https://www.linkedin.com/in/larissa-borges-132706203/" target="_"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_"></a>   
 </div>
 <br>
-#### Ferramentas:
+
+## Ferramentas:
 
 <div style="display: inline_block"><br>
    <img align="center" height="30" width="55"/src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
