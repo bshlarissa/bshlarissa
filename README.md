@@ -8,7 +8,8 @@
 
 <div>
 <div align = "center">
-<img src="[[https://i.gifer.com/ATEd.gif](http://24.media.tumblr.com/85b10d1fb2888c2e0484363e9ae17c70/tumblr_mroe4dCksW1sdx8hco1_500.gif)](http://24.media.tumblr.com/85b10d1fb2888c2e0484363e9ae17c70/tumblr_mroe4dCksW1sdx8hco1_500.gif)" align="center" height="30" width="55"/>
+<img src="![AccomplishedPlainGentoopenguin-size_restricted](https://user-images.githubusercontent.com/108247808/194080833-e4b6526e-05fe-478f-a206-7d2b9cff4eef.gif)
+ align="center" height="30" width="55"/>
 </div>
 
 <div>
