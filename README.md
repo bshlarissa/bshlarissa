@@ -8,6 +8,11 @@
 
 <div>
 <div align = "center">
+<img height="140m" src"https://i.gifer.com/ATEd.gif/>
+</div>
+
+<div>
+<div align = "center">
 <div style="display: inline_block"><br>
 <a href="https://github.com/bshlarissa"></a>
 <img height="140m" src="https://github-readme-stats.vercel.app/api?username=bshlarissa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> ⠀⠀⠀⠀
