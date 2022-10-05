@@ -7,7 +7,9 @@
 * 👩🏻‍💻 **Estudando Desenvolvimento Web no Programadores do Amanha**
 
 <div align = "center">
-![AccomplishedPlainGentoopenguin-size_restricted](https://user-images.githubusercontent.com/108247808/194080916-79b0db08-4727-472d-bca9-e9aaf7c47d2d.gif)
+   <div>
+      ![AccomplishedPlainGentoopenguin-size_restricted](https://user-images.githubusercontent.com/108247808/194080916-79b0db08-4727-472d-bca9-e9aaf7c47d2d.gif)
+   </div>
 
 
 <div>
