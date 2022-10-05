@@ -8,7 +8,7 @@
 
 <div>
 <div align = "center">
-<img align="center" height="30" width="55"/src="https://i.gifer.com/ATEd.gif/">
+<img align="center" height="30" width="55"src="https://i.gifer.com/ATEd.gif"/>
 </div>
 
 <div>
