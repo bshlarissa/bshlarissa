@@ -7,6 +7,7 @@
 * 👩🏻‍💻 **Estudando Desenvolvimento Web no Programadores do Amanha**
 
 <div>
+<div align = "center">
 <div style="display: inline_block"><br>
 <a href="https://github.com/bshlarissa"></a>
 <img height="140m" src="https://github-readme-stats.vercel.app/api?username=bshlarissa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> ⠀⠀⠀⠀
@@ -17,6 +18,7 @@
 ## Contato:
 
 <div>
+   <div align = "center">
    <div style="display: inline_block"><br>
 <a href="https://instagram.com/bslarissa" target="_"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:bslarissa1112@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -25,7 +27,8 @@
 <br>
 
 ## Ferramentas:
-
+      
+<div align = "center">
 <div style="display: inline_block"><br>
    <img align="center" height="30" width="55"/src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
    <img align="center" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
