@@ -1,5 +1,7 @@
 ## Bem vindo! 👋
 
+Bem vindos ao meu GitHub aqui você poderá ver um pouquinho dos meus projetos e minha evolução.
+
 * 💻 **Desenvolvedora Full-Stack**
 
 * 🎓 **Cursando Analise e Desenvolvimento de Sistemas**
