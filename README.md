@@ -10,6 +10,7 @@ Bem vindos ao meu GitHub aqui você poderá ver um pouquinho dos meus projetos.
 
 <div>
 <div align = "center">
+![](https://komarev.com/ghpvc/?username=bshlarissa&color=ff69b4)
 <div style="display: inline_block"><br>
 <a href="https://github.com/bshlarissa"></a>
 <img height="140m" src="https://github-readme-stats.vercel.app/api?username=bshlarissa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> ⠀⠀⠀⠀
