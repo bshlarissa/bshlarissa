@@ -23,7 +23,7 @@ Bem vindos ao meu GitHub aqui você poderá ver um pouquinho dos meus projetos.
    <div align = "center">
    <div style="display: inline_block"><br>
 <a href="https://instagram.com/bslarissa_" target="_"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:bslarissa1112@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:bslarissa1112@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"></a>
 <a href="https://www.linkedin.com/in/larissa-borges-132706203/" target="_"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_"></a>   
 </div>
 <br>
