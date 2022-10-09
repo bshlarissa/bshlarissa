@@ -49,5 +49,5 @@ Bem vindos ao meu GitHub aqui você poderá ver um pouquinho dos meus projetos.
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
-
+<br>
 </div>
