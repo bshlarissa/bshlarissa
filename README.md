@@ -2,7 +2,6 @@
 
 Bem vindos ao meu GitHub aqui você poderá ver um pouquinho dos meus projetos.
 
-* 💻 **Costumer Success **
 
 * 🎓 **Cursando Análise e Desenvolvimento de Sistemas**
 
