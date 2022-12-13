@@ -2,7 +2,7 @@
 
 Bem vindos ao meu GitHub aqui você poderá ver um pouquinho dos meus projetos.
 
-* 💻 **Desenvolvedora Web Full-Stack**
+* 💻 **Costumer Success **
 
 * 🎓 **Cursando Análise e Desenvolvimento de Sistemas**
 
