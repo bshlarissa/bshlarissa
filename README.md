@@ -32,12 +32,14 @@ Bem vindos ao meu GitHub aqui você poderá ver um pouquinho dos meus projetos.
       
 <div align = "center">
 <div style="display: inline_block"><br>
-   <img align="center" height="30" width="55"/src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-   <img align="center" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-   <img align="center" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
-   <img align="center" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
-   <img align="center" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-   <img align="center" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+   <img align="center" alt="logo-vsc" height="30" width="55"/src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+   <img align="center" alt="logo-js" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="logo-html" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
+   <img align="center" alt="logo-css" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
+   <img align="center" alt="logo-git" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+   <img align="center" alt="logo-fig" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+   <img align="center" alt="Logo-py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
 </div>
 <br>
 
