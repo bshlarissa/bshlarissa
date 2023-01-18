@@ -37,8 +37,6 @@ Bem vindos ao meu GitHub aqui você poderá ver um pouquinho dos meus projetos.
    <img align="center" alt="lari-html" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
    <img align="center" alt="lari-css" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
    <img align="center" alt="lari-git" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-   <img align="center" alt="lari-fig" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-   <img align="center" alt="lari-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
    <img align="center" alt="lari-vsc" height="30" width="55"/src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
 
 
