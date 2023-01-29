@@ -6,7 +6,7 @@ Bem vindos ao meu GitHub me chamo Larissa e aqui você poderá ver um pouquinho 
 
 * 👩🏻‍💻 **Desenvolvimento Web Full Stack `Programadores do Amanha`**
 
-* 💼 **Estagiária Suporte ao Cliente (HelpDesk) `Genyo`**
+* 💼 **Estagiária Suporte (HelpDesk) `Genyo`**
 
 <div>
 <div align = "center">
