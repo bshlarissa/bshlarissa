@@ -2,9 +2,9 @@
 
 Bem vindos ao meu GitHub me chamo Larissa e aqui você poderá ver um pouquinho dos meus projetos.
 
-* 🎓 **Cursando Análise e Desenvolvimento de Sistemas**
+* 🎓 **Análise e Desenvolvimento de Sistemas**
 
-* 👩🏻‍💻 **Estudando Desenvolvimento Web no Programadores do Amanha**
+* 👩🏻‍💻 **Desenvolvimento Web Full Stack Programadores do Amanha**
 
 <div>
 <div align = "center">
