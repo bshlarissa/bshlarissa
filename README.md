@@ -1,6 +1,9 @@
 ## Bem vindo! 👋🏽
 
-Bem vindos ao meu GitHub aqui você poderá ver um pouquinho dos meus projetos.
+Bem vindos ao meu GitHub me chamo Larissa e aqui você poderá ver um pouquinho dos meus projetos.
+
+<img align="right" width="300px" style="margin-top:-30px" src="https://github.com/bshlarissa/bshlarissa/blob/62789a0e0558663bb2b911644be7d58ab71db404/octocat-1675006221224.png">
+
 
 
 * 🎓 **Cursando Análise e Desenvolvimento de Sistemas**
@@ -13,7 +16,10 @@ Bem vindos ao meu GitHub aqui você poderá ver um pouquinho dos meus projetos.
 <a href="https://github.com/bshlarissa"></a>
 <img height="140m" src="https://github-readme-stats.vercel.app/api?username=bshlarissa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> ⠀⠀⠀⠀
 <img height="140m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bshlarissa&layout=compact&langs_count=7&theme=radical"/>
-</div>
+</div>  
+   
+   <br>
+   <br>
 
 
 ## Contato:
@@ -30,11 +36,11 @@ Bem vindos ao meu GitHub aqui você poderá ver um pouquinho dos meus projetos.
 
 ## Ferramentas:
       
-<div align = "center">
-<div style="display: inline_block"><br>
+  <div align = "center">
+  <div style="display: inline_block"><br>
    <img align="center" alt="lari-vsc" height="30" width="55"/src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-   <img align="center" alt="lari-js" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="lari-html" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
+   <img align="center" alt="lari-js"  height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="lari-html"height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
    <img align="center" alt="lari-css" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
    <img align="center" alt="lari-git" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
    <img align="center" alt="lari-vsc" height="30" width="55"/src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
