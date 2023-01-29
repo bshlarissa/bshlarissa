@@ -2,10 +2,6 @@
 
 Bem vindos ao meu GitHub me chamo Larissa e aqui você poderá ver um pouquinho dos meus projetos.
 
-<img align="right" width="300px" style="margin-top:-30px" src="https://github.com/bshlarissa/bshlarissa/blob/62789a0e0558663bb2b911644be7d58ab71db404/octocat-1675006221224.png">
-
-
-
 * 🎓 **Cursando Análise e Desenvolvimento de Sistemas**
 
 * 👩🏻‍💻 **Estudando Desenvolvimento Web no Programadores do Amanha**
