@@ -13,13 +13,6 @@
 <img height="140m" src="https://github-readme-stats.vercel.app/api?username=bshlarissa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> ⠀⠀⠀⠀
 <img height="140m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bshlarissa&layout=compact&langs_count=7&theme=radical"/>
 </div>  
-   
-   <br>
-   <br>
-   
-<img align="right" width="300px" style="margin-top:-30px" src="https://github.com/bshlarissa/bshlarissa/blob/62789a0e0558663bb2b911644be7d58ab71db404/octocat-1675006221224.png">
-
-
 
 ## Contato:
 
