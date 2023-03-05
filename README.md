@@ -1,7 +1,5 @@
 ## Bem vindo! 👋🏽
 
-Bem vindos ao meu GitHub me chamo Larissa e aqui você poderá ver um pouquinho dos meus projetos.
-
 * 🎓 **Análise e Desenvolvimento de Sistemas `Newton Paiva`**
 
 * 👩🏻‍💻 **Desenvolvimento Web Full Stack `Programadores do Amanha`**
