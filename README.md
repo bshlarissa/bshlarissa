@@ -2,10 +2,10 @@
 
 * 🎓 **Análise e Desenvolvimento de Sistemas `Newton Paiva`**
 
-* 👩🏻‍💻 **Desenvolvimento Web Full Stack `Programadores do Amanha`**
-
-* 💼 **Estagiária Suporte (HelpDesk) `Genyo`**
-
+<!-- * 👩🏻‍💻 **Desenvolvimento Web Full Stack `Programadores do Amanha`**
+ -->
+<!-- * 💼 **Estagiária Suporte (HelpDesk) `Genyo`**
+ -->
 <div>
 <div align = "center">
 <div style="display: inline_block"><br>
