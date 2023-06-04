@@ -1,7 +1,7 @@
 ## Bem vindo! 👋🏽
 
-* 🎓 **Análise e Desenvolvimento de Sistemas `Newton Paiva`**
-
+<!-- * 🎓 **Análise e Desenvolvimento de Sistemas `Newton Paiva`**
+ -->
 <!-- * 👩🏻‍💻 **Desenvolvimento Web Full Stack `Programadores do Amanha`**
  -->
 <!-- * 💼 **Estagiária Suporte (HelpDesk) `Genyo`**
